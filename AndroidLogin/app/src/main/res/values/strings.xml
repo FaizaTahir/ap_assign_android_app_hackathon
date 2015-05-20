@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Android Login and Registration</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btnsubmit">Submit Complain</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="action_settings">something here</string>
+    <string name="btn_CrimeView">View Crimes</string>
+    <string name="btn_PicUpload">Upload Crime Picture</string>
+    <string name="picupload_button_next">Next</string>
+    <string name="crime_prompt">Choose a crime</string>
+    <string-array name="Crime_category">
+        <item>Speeding</item>
+        <item>Harassment</item>
+        <item>Traffic Violation</item>
+        <item>drug abuse</item>
+        <item>Domestic violence</item>
+        <item>Bribery</item>
+        <item>Hooliganism</item>
+        <item>Smuggling</item>
+    </string-array>
+
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(or)</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+</resources>
